@@ -9,7 +9,7 @@ I'm a curious and enthusiastic Software Engineer, currently pursuing my Master's
 
 - 🤝 Connect with Me
   [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/mansi-rathi-18665a172/)](https://www.linkedin.com/in/mansi-rathi-18665a172/)
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rathimansi1802@gmail.com)](mailto:rathimansi1802@gmail.com)
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-crimson?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rathimansi1802@gmail.com)](mailto:rathimansi1802@gmail.com)
   [![LeetCode Badge](https://img.shields.io/badge/-Leetcode-gold?style=flat&logo=leetcode&logoColor=white&link=https://leetcode.com/u/mansirathi/)](https://leetcode.com/u/mansirathi/)
 
  
