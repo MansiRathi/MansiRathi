@@ -61,7 +61,7 @@ I'm a curious and enthusiastic Software Engineer, currently pursuing my Master's
   <br>
   <img src="https://img.icons8.com/color/48/000000/rocket.png" alt="Passion" width="24" height="24"/>  Enthusiastic about learning and growing in the tech space.
   <br>
-  <img src="https://img.icons8.com/color/48/000000/cooking-book.png" alt="Hobbies" width="24" height="24"/> Love cooking and dancing in my off duty hours.
+ <img src="https://img.icons8.com/ios-filled/100/000000/paint-palette.png" alt="Hobbies" width="24" height="24"/> Love cooking and dancing in my off duty hours.
 </p>
 
 
