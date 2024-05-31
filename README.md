@@ -57,7 +57,7 @@ I'm a curious and enthusiastic Software Engineer, currently pursuing my Master's
 ## 🌟 Highlights
 
 <p align="left">
-  <img src="https://img.icons8.com/fluency/48/000000/laptop-coding.png" alt="Experience" width="24" height="24"/>  Software Engineer at Experian.
+  <img src="https://img.icons8.com/fluency/48/000000/laptop-coding.png" alt="Experience" width="24" height="24"/>  Software Engineer Intern at Experian.
   <br>
   <img src="https://img.icons8.com/color/48/000000/rocket.png" alt="Passion" width="24" height="24"/>  Enthusiastic about learning and growing in the tech space.
   <br>
