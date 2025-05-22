@@ -12,13 +12,6 @@ I'm a curious and enthusiastic Software Engineer, currently pursuing my Master's
   [![Gmail Badge](https://img.shields.io/badge/Gmail-crimson?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rathimansi1802@gmail.com)](mailto:rathimansi1802@gmail.com)
   [![LeetCode Badge](https://img.shields.io/badge/-Leetcode-gold?style=flat&logo=leetcode&logoColor=white&link=https://leetcode.com/u/mansirathi/)](https://leetcode.com/u/mansirathi/)
 
- 
-- 🌱 Currently Exploring
-  [![Kubernetes Badge](https://img.shields.io/badge/Kubernetes-white?style=flat&logo=kubernetes&labelColor=white)](https://kubernetes.io/)
-  [![Vault Badge](https://img.shields.io/badge/Vault-white?style=flat&logo=vault&labelColor=white)](https://www.vaultproject.io/)
- [![AWS Badge](https://img.shields.io/badge/AWS-white?style=flat&logo=amazon-aws&labelColor=orange)](https://aws.amazon.com/)
-
-
 <p></p>
 
 ## 🛠️ My Skills
