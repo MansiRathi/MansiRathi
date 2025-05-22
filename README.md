@@ -11,6 +11,9 @@ I'm a curious and enthusiastic Software Engineer, currently pursuing my Master's
   [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/mansi-rathi-18665a172/)](https://www.linkedin.com/in/mansi-rathi-18665a172/)
   [![Gmail Badge](https://img.shields.io/badge/Gmail-crimson?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rathimansi1802@gmail.com)](mailto:rathimansi1802@gmail.com)
   [![LeetCode Badge](https://img.shields.io/badge/-Leetcode-gold?style=flat&logo=leetcode&logoColor=white&link=https://leetcode.com/u/mansirathi/)](https://leetcode.com/u/mansirathi/)
+  [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=internet-explorer&logoColor=white)](https://mansirathi.vercel.app)
+
+  
 
 <p></p>
 
