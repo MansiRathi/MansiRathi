@@ -5,7 +5,7 @@
 
 I'm a curious and enthusiastic Software Engineer, currently pursuing my Master's in Computer Science at the University of North Texas. Driven by learning, powered by hard work and dedication.
 
-- 📄 [Get to Know About My Experiences](https://drive.google.com/file/d/12n68Z8h9HCag24cfc4_A2cA-T2CrPNYE/view?usp=sharing)
+- 📄 [Get to Know About My Experiences](https://drive.google.com/file/d/1WwKcnAycxZOSozEC1XtQ-4uRzCMegdNy/view?usp=drive_link)
 
 - 🤝 Connect with Me
   [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/mansi-rathi-18665a172/)](https://www.linkedin.com/in/mansi-rathi-18665a172/)
